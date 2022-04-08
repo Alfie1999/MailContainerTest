@@ -35,17 +35,17 @@ There are no additional constraints, use the packages and approach you feel appr
 
 ### Thoughts/comments
 
-# TODO:
+#### TODO:
 
 Further tests are needed to give more coverage 
 I think I've covered the main areas with tests
 
-# TODO:
+#### TODO:
 
 In the interest of time I've left out function and property comments
 on most
 
-# Check List
+#### Check List
 
 class MailContainer 
 
