@@ -47,12 +47,9 @@ on most
 
 #### Check List
 
-class MailContainer 
-
-    // check if MailContainerNumber can be a integer
+1. In class MailContainer, check if MailContainerNumber can be integer
     public string MailContainerNumber { get; set; }
 
-class MakeMailTransferRequest : IMakeMailTransferRequest
-  // check if SourceMailContainerNumber and DestinationMailContainerNumber can be a integer
+2. In class MakeMailTransferRequest, check if SourceMailContainerNumber and DestinationMailContainerNumber can be integer
     public string SourceMailContainerNumber { get; set; }
     public string DestinationMailContainerNumber { get; set; }
