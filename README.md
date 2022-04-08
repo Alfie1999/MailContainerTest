@@ -54,4 +54,5 @@ on most
 2. In class MakeMailTransferRequest, check if SourceMailContainerNumber and DestinationMailContainerNumber can be integer.
  
     public string SourceMailContainerNumber { get; set; }
+    
     public string DestinationMailContainerNumber { get; set; }
